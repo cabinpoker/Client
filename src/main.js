@@ -6,7 +6,6 @@ import { FaHome, FaInbox, FaCoins, FaTrophy, FaStar, FaGraduationCap, FaDonate, 
 
 addIcons(FaHome, FaInbox, FaCoins, FaTrophy, FaStar, FaGraduationCap, FaDonate, FaCog, FaLock);
 
-const app = createApp(App)
-app.component("icon", OhVueIcon);
+const app = createApp(App).component("icon", OhVueIcon)
 app.use(router)
 app.mount('#app')
