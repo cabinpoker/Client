@@ -8,7 +8,7 @@
             <template v-for="item in menu">
                 <li v-if="item.auth == loggedin || item.auth == 0" @click="$router.push(item.url)" class="hover:bg-[#00000034] md:display-inline text-[#beb2cdb3] fontSize-[20px] p-2 rounded cursor-pointer mb-1">
                     <div v-if="item.notif > 0" class="float-right bg-[#b12020] text-white rounded p-1 border border-[#000] text-[11px]">{{ item.notif }}</div>
-                    <font-awesome-icon :style="{ color: item.color }" :icon="'fa-solid fa-' + item.icon" /> &nbsp;{{ item.name }}
+                    <icon :style="{ color: item.color }" :name="item.icon" /> &nbsp;{{ item.name }}
             </li>
             </template>
         </ul>
@@ -24,15 +24,15 @@ import { inject } from 'vue'
 const loggedin = inject("loggedin")
 
 const menu = [
-    { name: 'Lobby', url: '/', icon: 'map-signs', color: '#d18a8a', notif: 0, auth: 0 },
-    { name: 'Inbox', url: '/inbox', icon: 'inbox', color: '#519775', notif: 20, auth: 1 },
-    { name: 'Cash Games', url: '/cash', icon: 'coins', color: '#bf7e26', notif: 0, auth: 0 },
-    { name: 'Arena', url: '/arena', icon: 'trophy', color: '#7b70c9', notif: 0, auth: 0 },
-    { name: 'Sit & go', url: '/sitngo', icon: 'star', color: '#a559a7', notif: 0, auth: 0 },
-    { name: 'School', url: '/school', icon: 'graduation-cap', color: '#7d9042', notif: 0, auth: 0 },
-    { name: 'Donate', url: '/donate', icon: 'circle-dollar-to-slot', color: '#ba769a', notif: 0, auth: 0 },
-    { name: 'Settings', url: '/settings', icon: 'cog', color: '#666c52', notif: 0, auth: 1 },
-    { name: 'Sign Out', url: '/signout', icon: 'lock', color: '#867a90', notif: 0, auth: 1 },
+    { name: 'Lobby', url: '/', icon: 'fa-home', color: '#d18a8a', notif: 0, auth: 0 },
+    { name: 'Inbox', url: '/inbox', icon: 'fa-inbox', color: '#519775', notif: 20, auth: 1 },
+    { name: 'Cash Games', url: '/cash', icon: 'fa-coins', color: '#bf7e26', notif: 0, auth: 0 },
+    { name: 'Arena', url: '/arena', icon: 'fa-trophy', color: '#7b70c9', notif: 0, auth: 0 },
+    { name: 'Sit & go', url: '/sitngo', icon: 'fa-star', color: '#a559a7', notif: 0, auth: 0 },
+    { name: 'School', url: '/school', icon: 'fa-graduation-cap', color: '#7d9042', notif: 0, auth: 0 },
+    { name: 'Donate', url: '/donate', icon: 'fa-donate', color: '#ba769a', notif: 0, auth: 0 },
+    { name: 'Settings', url: '/settings', icon: 'fa-cog', color: '#666c52', notif: 0, auth: 1 },
+    { name: 'Sign Out', url: '/signout', icon: 'fa-lock', color: '#867a90', notif: 0, auth: 1 },
 ]
 </script>
 
