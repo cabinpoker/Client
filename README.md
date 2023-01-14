@@ -12,4 +12,4 @@ Free Open source Poker Client for Cabinpoker.com
 
 ```npm install```
 
-```npm run dev```
+```npm start```
