@@ -2,7 +2,7 @@
 
 
 # CabinPoker
-We are an open sourced Poker Client for https://cabinpoker.com built by volunteers for the love of the poker community. We have no ads, no trackers, no software downloads, 100% rake free FOREVER. starting a game is as simple as sharing a link with your friends! We have cash games, tournaments, sit n go's, home games, heads up and more! All our code is public and verifyable so we can prove that no rigged games are happening on our servers. We will bring trust back to the game of poker. Join Us!
+We are an open sourced Poker Client for https://cabinpoker.com built by volunteers for the love of the poker community. We have no ads, no trackers, no software downloads, 100% rake free FOREVER. We are 100% funded by lovely people like you! Starting a game is as simple as sharing a link with your friends! We have cash games, tournaments, sit n go's, home games, heads up and more! All our code is public and verifyable so we can prove that no rigged games are happening on our servers. We will bring trust back to the game of poker. Join Us!
 
 If you would like to help develop CabinPoker, please join our discord https://discord.gg/gwB4x9yHA6
 
@@ -42,3 +42,7 @@ https://user-images.githubusercontent.com/122582335/212490714-c47c29c5-02f6-4a17
 - Sit n go: 0%
 - Arena: 0%
 - Cash Games: 0%
+
+# Donate to our project
+If you would like to support Cabinpoker, feel free to send us a donation! It helps to keep the servers running and free of rake, advertisements and paywalls. Your donation is appreciated a lot! <3
+https://paypal.me/cabinpoker
