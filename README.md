@@ -44,5 +44,5 @@ https://user-images.githubusercontent.com/122582335/212490714-c47c29c5-02f6-4a17
 - Cash Games: 0%
 
 # Donate to our project
-If you would like to support Cabinpoker, feel free to send us a donation! It helps to keep the servers running and free of rake, advertisements and paywalls. Your donation is appreciated a lot! <3
+If you would like to support Cabinpoker, feel free to send us a donation! Our site is free of ads, trackers, rake and paywalls. Your donation is appreciated a lot! <3
 https://paypal.me/cabinpoker
