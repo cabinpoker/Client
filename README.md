@@ -6,6 +6,7 @@ We are an open sourced Poker Client for https://cabinpoker.com built by voluntee
 
 If you would like to help develop CabinPoker, please join our discord https://discord.gg/gwB4x9yHA6
 
+# Installation video
 
 https://user-images.githubusercontent.com/122582335/212490714-c47c29c5-02f6-4a17-a36a-36c497ac3f3a.mp4
 
