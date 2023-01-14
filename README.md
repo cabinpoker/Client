@@ -1,5 +1,8 @@
+![cabinpoker](https://user-images.githubusercontent.com/122582335/212491882-26623f21-1031-4a79-9095-b0a136920926.png)
+
+
 # CabinPoker
-Open sourced Poker Client for Cabinpoker.com built by volunteers for the poker community. We have no ads, no trackers, no software downloads, no rake and no rigged games. All our code is public and verifyable. We will bring trust back to the game of poker. Join us!
+Open sourced Poker Client for Cabinpoker.com built by volunteers for the poker community. We have no ads, no trackers, no software downloads, 100% rake free FOREVER and NO rigged games. All our code is public and verifyable. We will bring trust back to the game of poker. Join us!
 
 If you would like to help develop CabinPoker, please join our discord https://discord.gg/gwB4x9yHA6
 
