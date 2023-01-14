@@ -2,7 +2,7 @@
 
 
 # CabinPoker
-Open sourced Poker Client for Cabinpoker.com built by volunteers for the love of the poker community. We have no ads, no trackers, no software downloads, 100% rake free FOREVER. starting a home game is as simple as sharing a link with your friends! All our code is public and verifyable so we can prove that no rigged games are happening on our servers. We will bring trust back to the game of poker. Join Us!
+We are an open sourced Poker Client for Cabinpoker.com built by volunteers for the love of the poker community. We have no ads, no trackers, no software downloads, 100% rake free FOREVER. starting a home game is as simple as sharing a link with your friends! All our code is public and verifyable so we can prove that no rigged games are happening on our servers. We will bring trust back to the game of poker. Join Us!
 
 If you would like to help develop CabinPoker, please join our discord https://discord.gg/gwB4x9yHA6
 
