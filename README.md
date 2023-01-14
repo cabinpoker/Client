@@ -5,4 +5,10 @@ Free Open source Poker Client for Cabinpoker.com
 Requirements: NodeJS
 
 #Instructions
-```npm run client```
+```git clone https://github.com/cabinpoker/client```
+
+```cd client```
+
+```npm install```
+
+```npm run dev```
