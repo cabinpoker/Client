@@ -14,6 +14,7 @@ https://user-images.githubusercontent.com/122582335/212490714-c47c29c5-02f6-4a17
 # Requirements
 - NodeJS
 - NPM
+- Mongodb
 
 # Instructions
 ```git clone https://github.com/cabinpoker/client```
