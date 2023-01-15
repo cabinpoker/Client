@@ -28,11 +28,11 @@ https://user-images.githubusercontent.com/122582335/212490714-c47c29c5-02f6-4a17
 # To Do
 - Poker table UI: 100%
 - Vue Router: 100%
-- Login: 30%
-- Register: 10%
+- Login: 80%
+- Register: 50%
 - server: 10%
 - ExpressJS API: 1%
-- Authentication: 0%
+- Authentication: 30%
 - database: 0%
 - Admin Panel: 0%
 - Lobby: 0%

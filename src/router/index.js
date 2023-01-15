@@ -3,14 +3,16 @@ import arena from '../components/arena/index.vue'
 import cashGames from '../components/cashGames/index.vue'
 import cashier from '../components/arena/index.vue'
 import donate from '../components/donate/index.vue'
-import forgotPassword from '../components/forgotPassword/index.vue'
+import forgotPassword from '../components/auth/forgotPassword/index.vue'
 import inbox from '../components/inbox/index.vue'
+import leaderboards from '../components/leaderboards/index.vue'
 import lobby from '../components/lobby/index.vue'
-import login from '../components/login/index.vue'
+import login from '../components/auth/login/index.vue'
 import profile from '../components/profile/index.vue'
-import register from '../components/register/index.vue'
+import register from '../components/auth/register/index.vue'
 import room from '../components/room/index.vue'
 import school from '../components/school/index.vue'
+import signout from '../components/auth/signout/index.vue'
 import settings from '../components/settings/index.vue'
 import sitngo from '../components/sitngo/index.vue'
 
@@ -45,8 +47,16 @@ const routes = [
         component: inbox
     },
     {
+        path: '/leaderboards',
+        component: leaderboards
+    },
+    {
         path: '/login',
         component: login
+    },
+    {
+        path: '/signout',
+        component: signout
     },
     {
         path: '/profile',

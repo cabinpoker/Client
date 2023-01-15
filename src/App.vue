@@ -14,8 +14,14 @@ import sideMenu from './components/ui/nav/sideMenu.vue'
 import navBar from './components/ui/nav/navBar.vue'
 import { io } from 'socket.io-client'
 
+const loggedin = ref(null)
 const socketId = ref(null)
-const loggedin = ref(0)
+
+if(localStorage.getItem('token') === null) {
+  loggedin.value = null
+} else {
+  loggedin.value = 1
+}
 
 provide("loggedin", loggedin)
 
